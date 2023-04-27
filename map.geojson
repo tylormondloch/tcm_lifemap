@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1991
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -97.11038285703813,
+            44.899586905257195
+          ],
+          [
+            -96.74587733161019,
+            43.53712151240825
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1993
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -96.74587733161019,
+            43.53712151240825
+          ],
+          [
+            6.448512601282829,
+            50.01665165754781
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1994
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            6.448512601282829,
+            50.01665165754781
+          ],
+          [
+            0.5132706012995811,
+            52.34522358477844
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1995
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.5132706012995811,
+            52.34522358477844
+          ],
+          [
+            -117.93413144399744,
+            34.92958834524099
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 1999
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.93413144399744,
+            34.92958834524099
+          ],
+          [
+            -117.72083629781136,
+            34.08797579399166
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2000
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.72083629781136,
+            34.08797579399166
+          ],
+          [
+            -117.15480171816031,
+            34.06344738257293
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2004
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.15480171816031,
+            34.06344738257293
+          ],
+          [
+            -117.17872911382649,
+            34.08214409217723
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2007
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.17872911382649,
+            34.08214409217723
+          ],
+          [
+            -118.1185952413648,
+            33.78563907204432
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2010
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -118.1185952413648,
+            33.78563907204432
+          ],
+          [
+            -118.14588025780354,
+            33.7822192552151
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2012
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -118.14588025780354,
+            33.7822192552151
+          ],
+          [
+            -118.16770007721044,
+            33.76825304938012
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -118.16770007721044,
+            33.76825304938012
+          ],
+          [
+            -118.16612273986877,
+            33.77033760347233
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2015
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -118.16612273986877,
+            33.77033760347233
+          ],
+          [
+            -104.69854000513143,
+            40.4108153181723
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -104.69854000513143,
+            40.4108153181723
+          ],
+          [
+            -95.94522841746117,
+            41.25383488440099
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2019
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -95.94522841746117,
+            41.25383488440099
+          ],
+          [
+            -93.26761379672638,
+            44.98362002565901
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2020
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -93.26761379672638,
+            44.98362002565901
+          ],
+          [
+            -98.71016286755193,
+            29.462697640649694
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2021
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -98.71016286755193,
+            29.462697640649694
+          ],
+          [
+            -97.6917439998441,
+            32.484175547010906
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2022
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -97.6917439998441,
+            32.484175547010906
+          ],
+          [
+            -108.63153168248151,
+            45.75286504935795
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 16
+    }
+  ]
+}
